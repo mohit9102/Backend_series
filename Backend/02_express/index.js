@@ -179,7 +179,7 @@ app.delete('/teas/:id', (req, res) => {
 
 // Start the Express server on the specified port
 app.listen(PORT, () => {
-    // Log a message when the server is running
+    // Log a message when the server is runninga
     console.log(`Server running at http://localhost:${PORT}`);
 });
 
